@@ -2,7 +2,7 @@
 
 👨‍💻 Programmer  🌐 Web Developer
 
-🎓 Graduate of Istanbul University | ✨ 13 years old
+🎓 Graduate of Istanbul University | ✨ 
 
 # 🔧 Languages
 
